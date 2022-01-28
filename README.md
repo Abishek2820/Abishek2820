@@ -6,8 +6,7 @@
 I'm Abishek Kannan, I'm a student at Coimbatore Institute of Technology 👨‍💻 who is passionate about Data science and software development.
 🏄‍♂️. 
 
-- 🔭 I’m currently working on Machine Learning
-- 🌱 I’m currently learning NLP
+- 🔭 I’m currently learning on Machine Learning
 - 😄 Area of interest : DBMS,Machine learning,Data Analytics,Software develpment 
 -  ⚡ Languages: Python, C
 
